@@ -1,4 +1,3 @@
-import java.util.*;
 class BankAccount {
         // Private attributes
         private String accountHolderName;
